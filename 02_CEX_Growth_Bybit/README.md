@@ -1,6 +1,6 @@
 # CASE STUDY: Driving $15M+ Monthly Trading Volume Increase
 **Project:** Bybit (Global Crypto Exchange)
-**Role:** Regional Associate / Growth Lead
+**Role:** Regional Associate & Client Engagement Lead
 
 ## 🛠 The Challenge
 In a highly competitive CEX market, the goal was to capture market share in a specific region and increase the active trader base for both Spot and Futures products without overextending the marketing budget.
