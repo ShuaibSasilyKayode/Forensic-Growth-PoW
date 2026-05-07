@@ -14,7 +14,7 @@ Welcome to my **Proof of Work (PoW)** repository. I specialize in scaling Web3 p
 * **Intelligence:** Dune Analytics (Forensic SQL), Nansen, Glassnode
 * **Strategy:** GTM Frameworks, Partnership Tiering, ROI Optimization
 * **Management:** HubSpot, Salesforce, Cross-functional Stakeholder Management
-* **Languages:** English (Expert), Russian (Professional)
+* **Languages:** English (Expert), Chinese, Arabic, Spanish (Professional) and other Natives
 
 ---
 **Looking for a Business Development Manager to scale your ecosystem?** Reach out via Telegram or Email to discuss strategic alignment.
