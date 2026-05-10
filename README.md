@@ -1,76 +1,34 @@
-# Forensic-Growth-PoW
-**Strategic Growth, On-Chain Analytics, and Market Expansion Portfolio**  
-**Growth & Business Development | Ecosystem Strategy | On-Chain Analytics**
+# Forensic Growth & P2P Operations (Africa)
 
-Welcome to my **Proof of Work (PoW)** repository.
+This repository serves as my technical **Proof of Work (PoW)** for scaling and securing Web3 ecosystems. I specialize in a **Hybrid Growth Model**: leveraging on-chain data to drive aggressive user acquisition while architecting robust P2P operational frameworks to maintain marketplace integrity and liquidity.
 
-I specialise in growing Web3 products and exchanges in African and emerging markets through data‑driven go‑to‑market strategy, ecosystem partnerships, and forensic analysis of liquidity and user behaviour. This repo collects case studies, frameworks, and analytical approaches that reflect how I think and operate as a Growth / KOL BD professional.  
+## 🚀 The Hybrid Edge: Growth + Operations
+
+Most Business Development leads focus only on top-of-funnel acquisition. My approach ensures the entire lifecycle is optimized:
+* **Data-Driven Growth:** I use SQL (Dune Analytics) to identify high-volume P2P corridors, ensuring KOL marketing spend is allocated to high-velocity regions.
+* **Operational Excellence:** I manage $1M–$3M daily flows with a forensic focus on fraud prevention, dispute resolution, and liquidity stability.
+* **Market Localization:** I bridge the gap between global exchange objectives and the unique payment landscape of West Africa (NGN, GHS).
+
+## 📈 Professional Milestones
+
+### **Strategic Growth & P2P Lead | Cenoa**
+* **Acquisition:** Activated a network of 50+ KOLs and community leads to drive regional liquidity.
+* **Operations:** Monitored $1M–$3M in daily P2P flows, implementing risk-mitigation rules that maintained a 98% user satisfaction rate.
+* **Optimization:** Identified on-ramp friction via behavioral data, leading to 8+ monthly product improvements.
+
+### **Regional Growth & Client Development | Bybit**
+* **Market Scaling:** Managed the regional P2P marketplace for 20,000+ active users.
+* **Stakeholder Management:** Served as the lead for high-value institutional traders and localized community partners.
+
+## 🛠 Technical & Language Stack
+
+* **Analytics:** SQL (Dune Analytics), Nansen, On-chain Forensics.
+* **Ops & CRM:** Salesforce, Zendesk, Advanced CRM automation.
+* **Languages:** * **English:** Expert (C1/Native)
+    * **Mandarin Chinese:** Professional (Crypto/Business focused)
+    * **Regional:** Yoruba, Hausa.
 
 ---
-## 📂 Featured Case Studies
 
-### 1. Strategic Growth & Ecosystem Expansion — Cenoa
-
-Case study: `03_Strategic_BD_Cenoa`  
-
-How I approach:
-
-- Identifying high‑value corridors and markets using transaction and behavioural data.  
-- Prioritising segments and regions for growth based on performance and potential.  
-- Using user feedback and analytics to guide initiatives and partner focus.
----
-
-### 2. Exchange Growth & Liquidity Insights — Bybit
-
-Case study: `02_CEX_Growth_Bybit`  
-
-How I think about:
-
-- Analysing multi‑country user bases, corridor performance and trader behaviour.  
-- Supporting regional growth strategy with data‑driven insights.  
-- Evaluating partner and channel performance to decide where to double down or pivot.
----
-
-### 3. Product Localisation & Market Entry — Cwallet
-
-Case study: `01_Product_Localization_Cwallet`  
-
-How I approach:
-
-- Reducing onboarding friction in new markets.  
-- Aligning product flows with local payment realities and user expectations.  
-- Supporting early retention and usage through thoughtful localisation and communication.
----
-
-## 🛠 Growth & BD Tech Stack
-**Intelligence**
-
-- Dune Analytics (SQL)  
-- Nansen  
-- On‑chain explorers (Etherscan, BscScan, Solscan, etc.)
-
-**Strategy**
-
-- Go‑to‑market frameworks  
-- Partner / KOL tiering and prioritisation  
-- Funnel and ROI analysis (registration → activation → retention → revenue)
-
-**Execution**
-
-- CRM and pipeline tracking (HubSpot, Salesforce)  
-- Cross‑functional collaboration with Product, Marketing and Risk  
-- Structured reporting on market, user and partner performance
-
-**Languages**
-
-- English (Expert)  
-- Additional languages for regional collaboration in African and global markets
----
-
-## 🎯 What I’m Looking For
-
-I’m currently focused on **KOL & Business Development roles** where I can combine data, ecosystem relationships and market insight to grow exchanges and Web3 products across Africa and other emerging regions.  
-If you’re looking for a BD / KOL partner who can think in terms of markets, cohorts, partners and ROI (not just campaigns), feel free to reach out:
-
-- Telegram: `@krane231`  
-- Email: `shuaibsasilykayode@gmail.com`
+## 📊 Featured Project: Africa P2P Corridor Monitor
+I architected a real-time SQL dashboard tracking 300,000+ transactions to identify liquidity peaks and fraud patterns. This "Forensic" approach ensures that growth is not just fast, but secure and profitable.
